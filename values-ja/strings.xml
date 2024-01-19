@@ -2460,10 +2460,10 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="dialog_configureregion_password_desc">ここで新しいパスワードを設定することができます。現在のパスワードを再利用する場合は、空白のままにしてください。</string>
     <string name="dialog_configureregion_enforepassword">パスワードを要求する</string>
     <string name="dialog_regionstats_title">地域統計</string>
-    <string name="ci_energy_produced_short">プロデュースしました。%1$,.0fkW</string>
-    <string name="ci_energy_consumed_short">中古です。%1$,.0fkW</string>
-    <string name="ci_water_consumed_short">中古です。%1$,.0fL/h</string>
-    <string name="ci_water_produced_short">プロデュースしました。%1$,.0fL/h</string>
+    <string name="ci_energy_produced_short">電力量。%1$,.0fkW</string>
+    <string name="ci_energy_consumed_short">消費量。%1$,.0fkW</string>
+    <string name="ci_water_consumed_short">消費量: %1$,.0fL/h</string>
+    <string name="ci_water_produced_short">給水量: %1$,.0fL/h</string>
     <string name="dialog_regionstats_general">一般的な</string>
     <string name="dialog_regionstats_cities">%1$d / %2$dの都市</string>
 
