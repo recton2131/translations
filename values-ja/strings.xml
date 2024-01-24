@@ -2469,122 +2469,122 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
 
 
     <string name="regionlist_cat_popular">人気</string>
-    <string name="regionlist_cat_new">New</string>
-    <string name="regionlist_cat_free">Free</string>
-    <string name="regionlist_cat_protected">Protected</string>
-    <string name="regionlist_cat_usercities">Own cities</string>
-    <string name="regionlist_cat_userregions">Own regions</string>
-    <string name="store_cat_other">Other</string>
-    <string name="store_cat_road">Road</string>
-    <string name="store_cat_terrain">Terrain</string>
-    <string name="store_cat_trees">Trees</string>
-    <string name="store_cat_transport">Transport</string>
-    <string name="store_cat_residential">Residential</string>
-    <string name="store_cat_commercial">Commercial</string>
-    <string name="store_cat_industrial">Industrial</string>
-    <string name="store_cat_parks">Parks, Sports and Management</string>
-    <string name="store_cat_supply">Supply (Energy, Water, Waste Disposal)</string>
-    <string name="store_cat_religion">Religion and Culture</string>
-    <string name="store_cat_service">Service (Police, Health Care, Education,...)</string>
-    <string name="store_cat_award">Award and Special</string>
-    <string name="store_cat_decoration">Decorations</string>
-    <string name="store_cat_tool">Tools</string>
-    <string name="store_cat_overlay">Weather and Overlay</string>
-    <string name="store_cat_pack">Packs</string>
-    <string name="store_cat_roaddecoration">Road decoration</string>
-    <string name="store_cat_military">Military</string>
-    <string name="dialog_confirmsendgift_title">Send gift</string>
-    <string name="dialog_confirmsendgift_text">Awesome! You are about to send that gift to %1$s.</string>
-    <string name="settings_category_tools">Tools</string>
-    <string name="settings_category_gameplay">Gameplay</string>
-    <string name="settings_autosavewhenleaving">Save automatically when leaving city</string>
-    <string name="stage_regioncity_visits">Visits: %1$,d</string>
+    <string name="regionlist_cat_new">新着</string>
+    <string name="regionlist_cat_free">空き有り</string>
+    <string name="regionlist_cat_protected">保護済み</string>
+    <string name="regionlist_cat_usercities">所有している街</string>
+    <string name="regionlist_cat_userregions">所有している地域</string>
+    <string name="store_cat_other">その他</string>
+    <string name="store_cat_road">道路</string>
+    <string name="store_cat_terrain">地形</string>
+    <string name="store_cat_trees">木</string>
+    <string name="store_cat_transport">交通</string>
+    <string name="store_cat_residential">住宅</string>
+    <string name="store_cat_commercial">商業</string>
+    <string name="store_cat_industrial">工業</string>
+    <string name="store_cat_parks">公園、スポーツ、管理</string>
+    <string name="store_cat_supply">提供（電気、水道、廃棄物処理）</string>
+    <string name="store_cat_religion">宗教と文化</string>
+    <string name="store_cat_service">公共サービス（警察、医療、教育</string>
+    <string name="store_cat_award">賞と特殊</string>
+    <string name="store_cat_decoration">装飾</string>
+    <string name="store_cat_tool">ツール</string>
+    <string name="store_cat_overlay">天候とオーバーレイ</string>
+    <string name="store_cat_pack">パック</string>
+    <string name="store_cat_roaddecoration">道路の装飾</string>
+    <string name="store_cat_military">軍事</string>
+    <string name="dialog_confirmsendgift_title">ギフトを送る</string>
+    <string name="dialog_confirmsendgift_text">素晴らしいです！そのギフトを%1$sへ送信し用としています。</string>
+    <string name="settings_category_tools">ツール</string>
+    <string name="settings_category_gameplay">ゲームプレイ</string>
+    <string name="settings_autosavewhenleaving">街を退出するときに自動でセーブする</string>
+    <string name="stage_regioncity_visits">訪問者: %1$,d</string>
     <string name="dialog_missingplugins_total">Used plugins</string>
-    <string name="settings_maprenderingnobackground">Transparent background in map screenshots</string>
-    <string name="dialog_citygifts_title">Gifts</string>
-    <string name="dialog_citygifts_cmdnew">Send a gift</string>
-    <string name="dialog_citygifts_nogifts_receiver">You received no gifts, yet :(</string>
-    <string name="dialog_citygifts_nogifts_other">Be the first one to send a gift</string>
-    <string name="dialog_citygifts_typemsg">A message</string>
-    <string name="dialog_citygifts_typeunknown">Unknown</string>
-    <string name="dialog_citygifts_private">(private)</string>
+    <string name="settings_maprenderingnobackground">地図のスクリーンショットの背景を透過する</string>
+    <string name="dialog_citygifts_title">ギフト</string>
+    <string name="dialog_citygifts_cmdnew">ギフトを送る</string>
+    <string name="dialog_citygifts_nogifts_receiver">まだギフトを貰っていません :(</string>
+    <string name="dialog_citygifts_nogifts_other">一番最初にギフトを送りましょう</string>
+    <string name="dialog_citygifts_typemsg">メッセージ</string>
+    <string name="dialog_citygifts_typeunknown">不明</string>
+    <string name="dialog_citygifts_private">(非公開)</string>
     <string name="dialog_citygifts_cmdcollect">Collect</string>
-    <string name="dialog_citygifts_nomessage">The sender left no message.</string>
-    <string name="dialog_sendgift_title">Send a gift</string>
-    <string name="dialog_sendgift_cmdsend">Send it</string>
-    <string name="dialog_sendgift_typetext">Text</string>
-    <string name="dialog_sendgift_typemoney">Money</string>
-    <string name="dialog_sendgift_typediamonds">Diamonds / Region coins</string>
-    <string name="dialog_sendgift_lbltype">Type</string>
-    <string name="dialog_sendgift_lblamount">Amount</string>
-    <string name="dialog_sendgift_lblmessage">Message</string>
+    <string name="dialog_citygifts_nomessage">送信者はメッセージを残しませんでした。</string>
+    <string name="dialog_sendgift_title">ギフトを送る</string>
+    <string name="dialog_sendgift_cmdsend">送信</string>
+    <string name="dialog_sendgift_typetext">文章</string>
+    <string name="dialog_sendgift_typemoney">お金</string>
+    <string name="dialog_sendgift_typediamonds">ダイヤモンド / リージョンコイン</string>
+    <string name="dialog_sendgift_lbltype">種類</string>
+    <string name="dialog_sendgift_lblamount">額</string>
+    <string name="dialog_sendgift_lblmessage">メッセージ</string>
     <string name="dialog_sendgift_messagedesc">Here you can enter a message for the receiver if you want to</string>
-    <string name="dialog_sendgift_lblprivate">Private</string>
-    <string name="dialog_citygifts_reportsubject">the gift by %1$s</string>
-    <string name="dialog_deletegift_title">Delete gift</string>
-    <string name="dialog_deletegift_text">Are you sure that you want to delete this gift? This cannot be undone.</string>
-    <string name="dialog_deletegift_cmd">Delete</string>
+    <string name="dialog_sendgift_lblprivate">非公開</string>
+    <string name="dialog_citygifts_reportsubject">%1$sによるギフト</string>
+    <string name="dialog_deletegift_title">ギフトを削除する</string>
+    <string name="dialog_deletegift_text">このギフトを削除しますか？取り消すことはできません。</string>
+    <string name="dialog_deletegift_cmd">削除</string>
 
 
     <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
     <string name="dialog_uploadregiontoobig_title">Upload region</string>
     <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
-    <string name="channel_onlinemode_title">Online mode</string>
-    <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
-    <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
-    <string name="dialog_externalstorage_title">No access to external storage</string>
+    <string name="channel_onlinemode_title">オンラインモード</string>
+    <string name="channel_onlinemode_text">オンラインモードでのあなたの街に関する新しい情報。</string>
+    <string name="dialog_externalstorage_proceedwithout">自己責任で進めてください</string>
+    <string name="dialog_externalstorage_title">外部ストレージにアクセスできません</string>
     <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
 By doing so we can circumvent potential data loss caused by app updates or re-installation.
 \n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
-    <string name="dialog_onlinenotifications_title">Notifications</string>
-    <string name="dialog_onlinenotifications_time">%1$s ago</string>
-    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
-    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
+    <string name="dialog_onlinenotifications_title">通知</string>
+    <string name="dialog_onlinenotifications_time">%1$s 経過</string>
+    <string name="dialog_onlinenotifications_empty">まだ通知はありません。</string>
+    <string name="dialog_onlinenotifications_cmdempty">通知</string>
     <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
     <string name="dialog_reason_title">Reason</string>
     <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
-    <string name="store_realtitle">Plugin Store</string>
-    <string name="settings_pushnotificationsonline">Notifications about online mode</string>
-    <string name="settings_verticaltoolbar">Vertical toolbar</string>
-    <string name="settings_darktoolbar">Dark toolbar</string>
-    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
-    <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
-You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
-    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
-    <string name="dialog_tutwelcome_start">Let\'s go</string>
+    <string name="store_realtitle">プラグインストア</string>
+    <string name="settings_pushnotificationsonline">オンラインモードに関する通知</string>
+    <string name="settings_verticaltoolbar">垂直ツールバー</string>
+    <string name="settings_darktoolbar">暗いツールバー</string>
+    <string name="dialog_tutwelcome_title">TheoTownへようこそ</string>
+    <string name="dialog_tutwelcome_text">まずはチュートリアルで、街の作り方の基本を学びましょう。\n\n
+すでに遊び方が分かっている場合は、チュートリアルをスキップすることができます。ゲームメニューからいつでもスキップできます。</string>
+    <string name="dialog_tutwelcome_cmdskip">チュートリアルをスキップする</string>
+    <string name="dialog_tutwelcome_start">さぁ始めましょう</string>
 
 
-    <string name="settings_catplugins">Plugins</string>
-    <string name="settings_keys">Keys</string>
-    <string name="settings_keys_cmdreset">Set to default</string>
-    <string name="settings_keys_text">Currently assigned: %1$s\n
-Default: %2$s\n\n
-Press a key to assign it to this action.</string>
-    <string name="settings_toolbarnames">Show names in toolbar</string>
-    <string name="settings_toolbarprices">Show prices in toolbar</string>
+    <string name="settings_catplugins">プラグイン</string>
+    <string name="settings_keys">キー</string>
+    <string name="settings_keys_cmdreset">既定値に戻す</string>
+    <string name="settings_keys_text">現在の割り当て: %1$s\n
+既定値: %2$s\n\n
+押したキーをこのアクションに割り当てます。</string>
+    <string name="settings_toolbarnames">ツールバーで名称を表示する</string>
+    <string name="settings_toolbarprices">ツールバーで価格を表示する</string>
 
 
     <string name="shader_default2">Default</string>
 
 
     <string name="dialog_regionnopermission_title">No access</string>
-    <string name="dialog_regionnopermission_text">The app has no access to external storage to store the region in a safe way. Please grant access to external storage in order to generate regions.</string>
+    <string name="dialog_regionnopermission_text">このアプリは、地域を安全な方法で保存するための外部ストレージにアクセスできません。地域を生成するには、外部ストレージへのアクセスを許可してください。</string>
     <string name="ranger_cmdselecttrees">Select trees</string>
     <string name="draft_treeplantertool00_title">Tree Planter</string>
     <string name="draft_treeplantertool00_text">This tool can be used to spawn a variety of trees in a natural and convenient way.</string>
     <string name="treeplanter_cmdconfigure">Configure</string>
-    <string name="treeplanter_species">Species:</string>
-    <string name="treeplanter_density">Density:</string>
-    <string name="treeplanter_roughness">Roughness:</string>
-    <string name="treeplanter_brushsize">Brush size:</string>
-    <string name="treeplanter_outofcash">Out of cash</string>
-    <string name="control_about">About</string>
-    <string name="about_framework">Framework</string>
+    <string name="treeplanter_species">種:</string>
+    <string name="treeplanter_density">密度:</string>
+    <string name="treeplanter_roughness">粗さ:</string>
+    <string name="treeplanter_brushsize">ブラシサイズ:</string>
+    <string name="treeplanter_outofcash">お金が底を付きました</string>
+    <string name="control_about">概要</string>
+    <string name="about_framework">フレームワーク</string>
     <string name="control_undo">Undo</string>
     <string name="control_redo">Redo</string>
     <string name="toolaction_zoneroad">Add roads</string>
     <string name="settings_fullscreen_resolution">Fullscreen resolution</string>
-    <string name="settings_tool_history">Undo functionality</string>
+    <string name="settings_tool_history">機能のUndo</string>
     <string name="topic_birthday_ja">Happy birthday JustAnyone!</string>
 
 
@@ -2592,54 +2592,55 @@ Press a key to assign it to this action.</string>
     <string name="ci_neighbor_ne">NE</string>
     <string name="ci_neighbor_nw">NW</string>
     <string name="ci_neighbor_sw">SW</string>
-    <string name="dialog_removewithprice_title">Removal costs</string>
-    <string name="dialog_removewithprice_text">The price to remove your selection is %1$s. Do you want to proceed?</string>
+    <string name="dialog_removewithprice_title">除去費用</string>
+    <string name="dialog_removewithprice_text">選択物を除去する費用は、%1$sです。 続けますか？</string>
 
 
-    <string name="featureselector_doubledincometime">Double income for %1$s</string>
-    <string name="draft_marker_powermarker_text">Coverage with energy. Energy is transported using wires.</string>
-    <string name="draft_marker_waterpipemarker_title">Water</string>
-    <string name="draft_marker_waterpipemarker_text">The coverage with water. Water is transported to your residents using pipes.</string>
-    <string name="stage_files_title">File manager</string>
-    <string name="stage_files_importhere">Import here</string>
-    <string name="stage_files_currentdir">Current folder</string>
-    <string name="stage_files_actions">Actions</string>
-    <string name="stage_files_actionexport">Export</string>
-    <string name="stage_files_actionrename">Rename</string>
-    <string name="stage_files_actionrename_text">Rename file %1$s:</string>
-    <string name="stage_files_renamecollision_title">Naming collision</string>
-    <string name="stage_files_renamecollision_text">The file %1$s does already exist!</string>
-    <string name="stage_files_actiondelete">Delete</string>
-    <string name="stage_files_actiondelete_title">Delete?</string>
-    <string name="stage_files_actiondelete_text">Are you sure that you want to delete %1$s? This cannot be undone!</string>
-    <string name="stage_files_settings">Settings</string>
-    <string name="stage_files_settings_showhiddenfiles">Show hidden files</string>
-    <string name="stage_files_filesize">Size: %1$s</string>
-    <string name="stage_files_helptitle">Help</string>
-    <string name="stage_files_helptext">Welcome to the TheoTown file manager. Here you can access and manage your maps, regions, plugins and so on.</string>
-    <string name="unit_sizebytes">%1$,d bytes</string>
+    <!-- <string name="featureselector_doubledincometime">Double income for %1$s</string> -->
+    <string name="featureselector_doubledincometime">収入二倍 %1$s</string>
+    <string name="draft_marker_powermarker_text">電気の供給範囲。電気は電線を通じて住民へ供給される。</string>
+    <string name="draft_marker_waterpipemarker_title">水道</string>
+    <string name="draft_marker_waterpipemarker_text">水道の供給範囲。水道は水道管によって住民へ供給される。</string>
+    <string name="stage_files_title">ファイルマネージャ</string>
+    <string name="stage_files_importhere">ここにインポートImport here</string>
+    <string name="stage_files_currentdir">現在のフォルダ</string>
+    <string name="stage_files_actions">アクション</string>
+    <string name="stage_files_actionexport">エクスポート</string>
+    <string name="stage_files_actionrename">名前変更</string>
+    <string name="stage_files_actionrename_text">名前を変更 %1$s:</string>
+    <string name="stage_files_renamecollision_title">名前が重複</string>
+    <string name="stage_files_renamecollision_text">%1$s というファイルはすでに存在しています！</string>
+    <string name="stage_files_actiondelete">削除</string>
+    <string name="stage_files_actiondelete_title">削除しますか?</string>
+    <string name="stage_files_actiondelete_text">本当に%1$sを削除しますか？元に戻せません！</string>
+    <string name="stage_files_settings">設定</string>
+    <string name="stage_files_settings_showhiddenfiles">隠れたファイルを表示する</string>
+    <string name="stage_files_filesize">サイズ: %1$s</string>
+    <string name="stage_files_helptitle">ヘルプ</string>
+    <string name="stage_files_helptext">TheoTownファイルマネージャへようこそ。ここではあなたのマップや地域、プラグイン等を管理できます。</string>
+    <string name="unit_sizebytes">%1$,d バイト</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
     <string name="pluginerror_locateplugin">Locate plugin</string>
-    <string name="stage_files_createfolder">Create folder</string>
-    <string name="stage_files_createfolder_title">New folder</string>
-    <string name="stage_files_createfolder_text">Enter a name for the folder:</string>
-    <string name="stage_files_createfolder_cmdcreate">Create</string>
-    <string name="stage_files_createfoldercollision_title">File exists</string>
-    <string name="stage_files_createfoldercollision_text">The file %1$s does already exist!</string>
+    <string name="stage_files_createfolder">フォルダを作成</string>
+    <string name="stage_files_createfolder_title">新しいフォルダ</string>
+    <string name="stage_files_createfolder_text">フォルダ名を入力:</string>
+    <string name="stage_files_createfolder_cmdcreate">作成</string>
+    <string name="stage_files_createfoldercollision_title">ファイルがすでに存在</string>
+    <string name="stage_files_createfoldercollision_text">%1$sというファイルはすでに存在しています！</string>
     <string name="tool_terrain_smoothwaterheights">Smooth depth</string>
 
 
-    <string name="stage_files_importherefiles">File(s)</string>
-    <string name="stage_files_importherefolders">Folder</string>
-    <string name="draft_mosque10_title">Hassan II Mosque</string>
-    <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
-    <string name="dialog_filesrestart_title">Restart</string>
+    <string name="stage_files_importherefiles">ファイル</string>
+    <string name="stage_files_importherefolders">フォルダ</string>
+    <string name="draft_mosque10_title">ハッサン二世モスク</string>
+    <string name="draft_mosque10_text">ハッサン二世モスクは、モロッコのカサブランカにあるモスク。アフリカ最大のモスクであり、世界で7番目に大きい。1993年に完成したこのモスクは、ハッサン2世の指導の下、ミシェル・ピンソーによって設計され、モロッコ全土の職人によって建てられた。モスクは大西洋に面した岬に建っており、礼拝者は海に向かって祈ることができるが、海を眺めるガラス張りの床はない。壁は手作りの大理石で、屋根は開閉式。礼拝には、モスクのホール内には2万5千人、モスクの外には8万人の最大10万5千人の参拝者が集まることができる。</string>
+    <string name="dialog_filesrestart_title">再起動</string>
     <string name="dialog_filesrestart_text">You may have to restart the game for changes to come into effect.\n\nDo you want to restart the game now?</string>
-    <string name="dialog_filesrestart_cmdrestart">Restart</string>
-    <string name="dialog_filesrestart_cmdlater">Later</string>
-    <string name="settings_multiroaddecosupport">Support for multiple road decos</string>
+    <string name="dialog_filesrestart_cmdrestart">再起動</string>
+    <string name="dialog_filesrestart_cmdlater">後で</string>
+    <string name="settings_multiroaddecosupport">道路に複数の装飾をサポート</string>
     <string name="loadcity_uberindicator">(uber)</string>
 
 
@@ -2649,12 +2650,10 @@ Press a key to assign it to this action.</string>
     <string name="draft_tunnel_management00_text_premium">Lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
     <string name="stage_account_whytoregister">Why to register</string>
     <string name="stage_account_pro_onlinemode">Participate in online mode regions</string>
-    <string name="stage_account_pro_comment">Comment on plugins and cities</string>
-    <string name="stage_account_pro_synchronize">Synchronizes your currency and purchases</string>
-    <string name="stage_account_con_localcities">Local cities will still be stored locally, only</string>
 
 
-    <string name="draft_discord_statue02_title">Discord 20k</string>
+
+    <string name="draft_discord_statue02_title">ディスコード 2万</string>
     <string name="draft_discord_statue02_text">A new statue to celebrate our 20k members Discord anniversary. For this anniversary we held up a scavenger hunt which was completed first by our glorious member KolaKattz</string>
     <string name="settings_drawpedestrians">Pedestrians</string>
     <string name="draft_pedestrian_road00_title">Pavement</string>
@@ -2668,8 +2667,9 @@ Press a key to assign it to this action.</string>
     <string name="settings_smoothzoom_linear">Blurry</string>
     <string name="settings_smoothzoom_fast">Fast</string>
     <string name="settings_regionoriginbackup">Option to reset cities in newly generated regions</string>
-    <string name="settings_translateplugins">Translate plugins</string>
-    <string name="stage_region_greeter_welcome">Welcome to</string>
+    <string name="settings_translateplugins">プラグインを翻訳</string>
+    <!-- <string name="stage_region_greeter_welcome">Welcome to</string> -->
+    <string name="stage_region_greeter_welcome">ようこそ</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
 
 
@@ -2703,14 +2703,14 @@ Press a key to assign it to this action.</string>
     <string name="dialog_screenshot_cmdshare">Share</string>
     <string name="settings_targetfps">Target FPS</string>
     <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You are offline.</string>
-    <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
-    <string name="store_modebestrated">Best rated</string>
-    <string name="dialog_pluginqualityunsure_title">Be careful</string>
-    <string name="dialog_pluginqualityunsure_text">The plugin you are about to download did not get many downloads or ratings yet. Therefore, it may not exactly hold up to your expectations.</string>
-    <string name="dialog_pluginqualityunsure_gotit">Got it</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Don\'t show again</string>
+    <string name="dialog_nointernetaccess_title">接続できません</string>
+    <string name="dialog_nointernetaccess_text">オフラインモードです。</string>
+    <string name="dialog_nointernetaccess_cmdgotit">わかりました</string>
+    <string name="store_modebestrated">評価順</string>
+    <string name="dialog_pluginqualityunsure_title">注意してください</string>
+    <string name="dialog_pluginqualityunsure_text">あなたがダウンロードしようとしているプラグインは、まだ多くのダウンロードや評価を得ていません。したがって、それは、期待にそぐわない可能性があります。</string>
+    <string name="dialog_pluginqualityunsure_gotit">わかりました</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">再度表示しない</string>
     <string name="store_modecertifiedcreators">Certified Creators</string>
     <string name="ci_rating_help">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Tap on a row to see the corresponding distribution in the city.</string>
     <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
@@ -2732,8 +2732,8 @@ Press a key to assign it to this action.</string>
     <string name="biomemaker_types">Types:</string>
 
 
-    <string name="control_save">Save</string>
-    <string name="control_load">Load</string>
+    <string name="control_save">セーブ</string>
+    <string name="control_load">ロード</string>
     <string name="draft_biomeMaker_cmdsavepreset">Save Preset</string>
     <string name="draft_biomeMaker_cmdloadpreset">Load Preset</string>
     <string name="draft_biomeMaker_cmdreset">Reset Selection</string>
@@ -2768,18 +2768,18 @@ Press a key to assign it to this action.</string>
 
 
     <string name="draft_feature_dsa00_title">DSA</string>
-    <string name="draft_feature_dsa00_text">This integration adds better supply systems, few new service cars, a new road which is faster and is cheaper, a new disaster, DSA flags, new buildings, a lot of events, a space dimension to explore, new methods to earn money and much more.</string>
-    <string name="draft_dsa_category00_title">Agency</string>
+    <string name="draft_feature_dsa00_text">この統合により、より良い供給システム、数台の新しいサービスカー、より速く、より安い新しい道路、新しい災害、DSA旗、新しい建物、多くのイベント、探検するための宇宙空間、お金を稼ぐための新しい方法などが追加されます。</string>
+    <string name="draft_dsa_category00_title">DSA機関</string>
     <string name="draft_dsa_space_category00_title">Space Base</string>
     <string name="draft_dsadevcat_title">DSA Debug</string>
-    <string name="draft_dsa_zone_title">DSA zone</string>
+    <string name="draft_dsa_zone_title">DSAゾーン</string>
     <string name="draft_dsa_zone_text">Zone to declare DSA territory in the city.</string>
-    <string name="draft_dsaroad_title">Speedroad</string>
+    <string name="draft_dsaroad_title">スピードロード</string>
     <string name="draft_dsaroad_text">Faster than normal road designed by DSA.</string>
     <string name="draft_dsa_ultra_road00_title">DSA MK3.2 road</string>
     <string name="draft_dsa_ultra_road00_text">Insanely speedy road designed by DSA.</string>
-    <string name="draft_dsahq_title">DSA headquarters</string>
-    <string name="draft_dsahq_text">The headquarters for all DSA operations in the area.</string>
+    <string name="draft_dsahq_title">DSA本部</string>
+    <string name="draft_dsahq_text">エリア内の全てのDSA業務を行う本部。</string>
     <string name="draft_dsahqupHW_title">Establish ESD</string>
     <string name="draft_dsahqupHW_text">Establishes DSA department for emergency services which increases public safety by dispatching special teams.</string>
     <string name="draft_dsahqupAR_title">Establish RD</string>
@@ -2835,24 +2835,24 @@ Press a key to assign it to this action.</string>
     <string name="draft_prison00_text">A harsh place designed to keep in all evil-doers.</string>
     <string name="draft_prison_upgrade00_title">Literacy programme</string>
     <string name="draft_prison_upgrade00_text">Teach prisoners the basics of things lowering the chance of them becoming criminals again.</string>
-    <string name="draft_dsacommand_requirement">Need: DSA headquarters</string>
-    <string name="draft_dsaRD_requirement">Need: Research department</string>
-    <string name="draft_dsaRMD_requirement">Need: RMD department</string>
-    <string name="draft_dsaSR_requirement">Need: Advanced supply research</string>
-    <string name="draft_dsaCR_requirement">Need: Containment research</string>
-    <string name="draft_dsaARR_requirement">Need: Advanced rocketry research</string>
-    <string name="draft_dsaFTR_requirement">Need: Futuristic technology research</string>
+    <string name="draft_dsacommand_requirement">必要: DSA本部</string>
+    <string name="draft_dsaRD_requirement">必要: 研究施設</string>
+    <string name="draft_dsaRMD_requirement">必要: RMD department</string>
+    <string name="draft_dsaSR_requirement">必要: 高度供給研究</string>
+    <string name="draft_dsaCR_requirement">必要: 収容研究</string>
+    <string name="draft_dsaARR_requirement">必要: 高度ロケット工学研究</string>
+    <string name="draft_dsaFTR_requirement">必要: 先進技術研究Futuristic technology research</string>
     <string name="draft_dsarocketnotready_requirement">Rocket is not fully supplied yet</string>
-    <string name="draft_dsarocketready_requirement">Rocket is ready for launch</string>
+    <string name="draft_dsarocketready_requirement">ロケットの発射準備が整いました</string>
     <string name="draft_dsarockettestundone_requirement">Previous tests are incomplete</string>
     <string name="draft_dsarockettestdone_requirement">Previous tests are done</string>
     <string name="draft_dsarocketfinalundone_requirement">Tests are incomplete</string>
     <string name="draft_dsarocketfinaldone_requirement">Rocket tests are done</string>
     <string name="draft_rocket_akial_requirement">Need: Animal carriage test</string>
     <string name="draft_dsaHELIUM_requirement">Need: Helium 3 found in space</string>
-    <string name="draft_dsaDYSON_requirement">Need: Dyson sphere built in space</string>
+    <string name="draft_dsaDYSON_requirement">必要: ダイソンソフィア Dyson sphere built in space</string>
     <string name="draft_dsaLORE10_requirement">Help the giant pickle on the moon</string>
-    <string name="draft_dsapower00_title">Fusion power plant</string>
+    <string name="draft_dsapower00_title">核融合発電所</string>
     <string name="draft_dsapower00_text">Energy from fusion is proven to be more efficient and cleaner than other energy, but it costs more in return.</string>
     <string name="draft_dsapower01_title">Microwave antenna</string>
     <string name="draft_dsapower01_text">Antenna used for transmitting power from Dyson sphere back to Theonia using microwave radio waves.\n\nNote: the outputted power is at very high voltage.</string>
@@ -2897,7 +2897,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsarocket_upg1_title">Rocket test</string>
     <string name="draft_dsarocket_upg1_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.\nSupplies: ${_dsareadiness}/1000</string>
     <string name="draft_dsarocket_upg2_title">Animal carriage</string>
-    <string name="draft_dsarocket_upg2_text">Launch a rocket with cat inside named Akial to space to gather vital information.\nSupplies: ${_dsareadiness}/2500</string>
+    <string name="draft_dsarocket_upg2_text">Launch a rocket with cat iflarenside named Akial to space to gather vital information.\nSupplies: ${_dsareadiness}/2500</string>
     <string name="draft_dsarocket_upg3_title">Navigation</string>
     <string name="draft_dsarocket_upg3_text">Launch a rocket with a man to space to conduct navigational tests.\nSupplies: ${_dsareadiness}/5000</string>
     <string name="draft_dsarocket_upg4_title">Sattelites</string>
@@ -3022,7 +3022,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_space_storyline_intro01">Please do not be afraid! We came here with peace.</string>
     <string name="draft_space_storyline_intro02">Well, crash landed would be more fitting.</string>
     <string name="draft_space_storyline_intro03">We trust you won\'t hurt us. Do we trust you right?</string>
-    <string name="draft_space_storyline_intro_refused00">Very well. You may do whatever you want to us, however we won\'t tell you anything.</string>
+    <string name="draft_space_storyline_intro_refused00">Very well. Youflare may do whatever you want to us, however we won\'t tell you anything.</string>
     <string name="draft_space_storyline_intro_affirmed00">That\'s great. Allow me to introduce myself.</string>
     <string name="draft_space_storyline_intro_affirmed01">I am GenericGiantPickleLeader#01 - leader of the Cucumber galaxy.</string>
     <string name="draft_space_storyline_intro_affirmed02">All we need is a little help. In return you may have all our knowledge.</string>
